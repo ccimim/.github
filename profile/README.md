@@ -2,7 +2,7 @@
   <a href="https://www.cimim.org/"><img src="cimim-banner.png" alt="CIMIM — Centre for Computational Imaging and Modelling in Medicine, The University of Manchester" width="100%"></a>
 </p>
 
-The **Centre for Computational Imaging and Modelling in Medicine (CIMIM)** at [The University of Manchester](https://www.manchester.ac.uk/) advances precision medicine through computational innovation, collaboration and data-driven discovery, for the benefit of all.
+The **[Centre for Computational Imaging and Modelling in Medicine (CIMIM)](https://www.cimim.org/)** at [The University of Manchester](https://www.manchester.ac.uk/) advances precision medicine through computational innovation, collaboration and data-driven discovery, for the benefit of all.
 
 ### Research directions
 
